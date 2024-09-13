@@ -1,3 +1,5 @@
+# analytics-dashboard
+
 Analytics Dashboard App
 
 This is a prototype Analytics Dashboard App is designed to provide a quick and comprehensive overview of your daily reports and data analytics. Built with a sleek and intuitive UI using Flutter, and powered by robust Python-based logic, this app ensures you have all the critical insights at your fingertips.
