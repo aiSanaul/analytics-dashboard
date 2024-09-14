@@ -1,17 +1,19 @@
-# ex_term
+# analytics-dashboard
+Analytics Dashboard App
 
-A new Flutter project.
+This is a prototype Analytics Dashboard App is designed to provide a quick and comprehensive overview of your daily reports and data analytics. Built with a sleek and intuitive UI using Flutter, and powered by robust Python-based logic, this app ensures you have all the critical insights at your fingertips.
 
-## Getting Started
+Key Features:
+- Daily Reports: Get a quick peek at your daily reports with just a glance.
+- Real-Time Data: Monitor occurring data in real-time to stay updated.
+- Quick Analytics: Access short and concise analytics to make informed decisions swiftly.
+- User-Friendly Interface: Enjoy a seamless and interactive user experience with Flutter’s modern UI design.
+- Powerful Backend: Leverage Python’s powerful data processing capabilities for accurate and efficient analytics.
 
-This project is a starting point for a Flutter application.
+Whether you need to track performance metrics, analyze trends, or simply stay informed, our Analytics Dashboard App is your go-to solution for all your data needs.
 
-A few resources to get you started if this is your first Flutter project:
+Here is layout view:
+{to be added}
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# analytics-dashboard" 
+Here is end-user view:
+{to be added}
